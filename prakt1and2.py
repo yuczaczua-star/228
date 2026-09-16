@@ -20,7 +20,6 @@ while True:
             else:
                 print("Значение равно нулю")
 
-
             if y == int(y):
                 if int(y) % 2 == 0:
                     print("Значение чётное")
